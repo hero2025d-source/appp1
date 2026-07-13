@@ -1,0 +1,6 @@
+{
+  "name": "HikFace Terminal",
+  "description": "A high-fidelity simulation of an industrial Hikvision Face Recognition Access Control Terminal with real-time temperature verification, TTS voice cues, event logs, and simulated door relay locks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
